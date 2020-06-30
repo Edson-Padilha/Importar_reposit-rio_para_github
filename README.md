@@ -1,5 +1,5 @@
 # Importar_repositorio_para_github
-Passo a passo para fazer a importação de seu repositório para o git.
+Passo a passo para fazer a importação de seu repositorio para o git.
 
 Importar Repositório para o Github
 
